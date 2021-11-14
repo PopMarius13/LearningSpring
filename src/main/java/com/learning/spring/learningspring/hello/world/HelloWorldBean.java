@@ -1,4 +1,4 @@
-package com.learning.spring.learningspring;
+package com.learning.spring.learningspring.hello.world;
 
 public class HelloWorldBean {
 
